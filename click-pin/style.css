@@ -1,0 +1,27 @@
+/* .pin-img{
+    content: url(blackpin.png);
+    width: 30vh;
+    height: auto;
+}
+[type=checkbox] { 
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+[type=checkbox]:checked + .pin-img{
+    width:30vh;
+    content: url(redpin.png);
+    height:auto;
+} */
+
+/* .pin{
+    width:30vh;
+    height: 50vh;
+    background-image: url("./blackpin.png");
+    background-repeat: no-repeat;
+}
+.clicked{
+    background-image: url("./redpin.png");
+    background-repeat: no-repeat;
+} */
